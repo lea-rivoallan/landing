@@ -1,0 +1,45 @@
+/* ===== Newsletter ===== */
+#newsletter-card {
+  background-color: #1c1712;
+}
+
+.news-gallery {
+  display: flex; /*permet de mettre cote a cote*/
+  flex-wrap: wrap; /*à la suite*/
+  justify-content: center;
+  gap: 24px;
+  margin-bottom: 50px;
+}
+
+.news {
+  background-color: #1c1712;
+  border-radius: 6px;
+  width: 280px;
+  padding: 16px;
+  color: #d4b896;
+  text-align: left;
+  border-style: double;
+}
+
+.news img {
+  width: 100%;
+  height: 170px;
+  object-fit: cover; /*permet de redimmensioner à la taille correct automatiquement*/
+}
+
+
+.news-date {
+  font-size: 15px;
+  margin-bottom: 6px;
+  text-align: left;
+}
+
+.news h3 {
+  font-size: 20px;
+  margin-bottom: 6px;
+  text-align: left;
+}
+
+.news p {
+  font-size: 15px;
+}

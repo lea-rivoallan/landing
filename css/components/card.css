@@ -1,0 +1,18 @@
+/*Card*/
+
+.card {
+  background: #60463b;
+  padding: 20px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  border-radius: 8px;
+  box-shadow: 0 10px 30px #1c1712;
+  text-align: center;
+}
+
+.card h2 {
+  font-family: "Oswald", sans-serif;
+  color: #d4b896;
+  font-size: 28px;
+  margin-top: 0;
+}

@@ -1,0 +1,21 @@
+.btn-banner {
+  display: block;
+  font-family: "Oswald", sans-serif;
+  font-weight: bold;
+  font-size: 18px;
+  text-align: center;
+  background-color:#856a5d;
+  color: rgb(0, 0, 0);
+  border-color: #60463b;
+  border-width: 5px;
+  padding: 12px 20px;
+  text-decoration: none;
+  margin: 0 auto;
+  border-radius: 7px;
+  margin-top: 20px;
+}
+
+
+.btn-banner:hover {
+  background-color: #d4b896;
+}
