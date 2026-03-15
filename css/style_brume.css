@@ -86,10 +86,10 @@ a {
     width: 100%;
     justify-content: center;
     gap: 20px;
-    order: 3;
   }
-  .btn-nav {
-    margin-top: 0;
+  .nav-logo {
+    font-size: 15px;
+    padding:0%; 
   }
   .card-shop {
     width: 200px;
