@@ -64,3 +64,21 @@
   margin-bottom: 6px;
 }
 
+/*Sidebar*/
+
+.sidebar {
+  position: fixed;
+  width: 200px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+}
+
+.page-content {
+  margin-left: 200px;
+}
+
+.sidebar ul {
+  list-style: none;
+	padding-left: 0px;
+}
