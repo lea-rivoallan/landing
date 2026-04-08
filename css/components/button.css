@@ -18,4 +18,5 @@
 
 .btn-banner:hover {
   background-color: #d4b896;
+  rotate: 180deg;
 }
